@@ -4,7 +4,7 @@
 - 🌱 Atualmente estudando na Fatec Sunji Nishimura(Big Data No Agronegócio)
 
 <div align="center">
-  <a href="https://github.com/gabrielhogarcia">
+  <a href="https://github.com/AlekiBr">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AlekiBr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlekiBr&layout=compact&langs_count=7&theme=dark"/>
 </div>
