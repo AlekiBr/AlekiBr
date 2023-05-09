@@ -1,5 +1,7 @@
 ## Olá Eu sou o AlekiBr
 
+![bem vindo](https://github.com/AlekiBr/AlekiBr/blob/main/bem%20vindo.gif)
+
 
 - 🌱 Atualmente estudando na Fatec Sunji Nishimura(Big Data No Agronegócio)
 
