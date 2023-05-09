@@ -19,6 +19,6 @@
 
 
 
-     ![snake gif](https://github.com/AlekiBr/AlekiBr/blob/output/github-contribution-grid-snake.svg)
+     ![snake gif](https://github.com/AlekiBr/AlekiBr/blob/main/.github/workflows/Cobrinha.yml)
     
     
