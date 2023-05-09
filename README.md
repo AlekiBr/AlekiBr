@@ -15,3 +15,5 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 ![Snake animation](https://github.com/AlekiBr/AlekiBr/blob/output/github-contribution-grid-snake.svg)
+    
+    ![7aa1c6d6b121fffe849a7c3313c7f22036df184c](https://github.com/AlekiBr/AlekiBr/assets/102824980/d7cbc4a5-33ae-4e5e-ab60-f44c7af29014)
