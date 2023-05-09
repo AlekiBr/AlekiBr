@@ -16,4 +16,4 @@
 
 ![Snake animation](https://github.com/AlekiBr/AlekiBr/blob/output/github-contribution-grid-snake.svg)
  
-    
+ ![certinho.gif](https://github.com/AlekiBr/AlekiBr/blob/main/certinho.gif) 
