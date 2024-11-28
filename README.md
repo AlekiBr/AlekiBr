@@ -4,6 +4,11 @@
 
 
 - 🌱 Atualmente estudando na Fatec Sunji Nishimura(Big Data No Agronegócio)
+- 💻 Focado em Engenharia de Software
+- 📖 Atualmente aprendendo Python e Desenvolvimento Web Completo
+
+👨‍💻 Sobre mim:
+Apaixonado por tecnologia, criatividade e soluções inovadoras. Gosto de transformar ideias em projetos funcionais e de aprender algo novo todos os dias.
 
 <div align="center">
   <a href="https://github.com/AlekiBr">
