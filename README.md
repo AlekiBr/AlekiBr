@@ -36,10 +36,10 @@ Sou apaixonado por tecnologia, ciência de dados e arquitetura de software. Minh
 
 ---
 
-### 🔥 Sequência de Atividade
+### 📈 Gráfico de Atividade
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlekiBr&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlekiBr&theme=tokyonight&hide_border=true" alt="Gráfico de Atividade" />
 </div>
 
 ---
