@@ -13,12 +13,31 @@
 
   <br/><br/>
 
-<img width="405" height="53" alt="image" src="https://github.com/user-attachments/assets/1d4d5e0c-7076-4569-bf40-931b2bfdbd5d" />
-
+  <!-- Menu de Navegação Estilizado em Badges -->
+  <p align="center">
+    <a href="#-sobre-mim">
+      <img src="https://img.shields.io/badge/Menu-Sobre_Mim-9d4edd?style=for-the-badge&logo=user&logoColor=white" alt="Sobre Mim"/>
+    </a>
+    <a href="#-no-que-estou-trabalhando-agora">
+      <img src="https://img.shields.io/badge/Menu-Foco_Atual-2a7aef?style=for-the-badge&logo=rocket&logoColor=white" alt="Foco Atual"/>
+    </a>
+    <a href="#-projetos-em-destaque-">
+      <img src="https://img.shields.io/badge/Menu-Projetos-9d4edd?style=for-the-badge&logo=github&logoColor=white" alt="Projetos"/>
+    </a>
+    <a href="#%EF%B8%8F-tecnologias-e-ferramentas-">
+      <img src="https://img.shields.io/badge/Menu-Tecnologias-2a7aef?style=for-the-badge&logo=code&logoColor=white" alt="Tecnologias"/>
+    </a>
+    <a href="#-estat%C3%ADsticas-do-github-">
+      <img src="https://img.shields.io/badge/Menu-Estat%C3%ADsticas-9d4edd?style=for-the-badge&logo=chart&logoColor=white" alt="Estatísticas"/>
+    </a>
+    <a href="#-ouvindo-no-spotify">
+      <img src="https://img.shields.io/badge/Menu-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
+    </a>
+  </p>
 
   <br/>
 
-  <!-- Grupo Unificado de Badges no Topo -->
+  <!-- Grupo de Status e Redes -->
   <a href="https://www.linkedin.com/in/cristhian-gabriel-981b98233" target="_blank">
     <img src="https://img.shields.io/badge/Status-Aberto_a_Conexoes-9d4edd?style=for-the-badge&logo=rocket&logoColor=white" alt="Status Conexões"/>
   </a>
