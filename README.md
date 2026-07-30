@@ -44,7 +44,7 @@ Sou apaixonado por tecnologia, ciência de dados e arquitetura de software. Minh
 ### 📈 Gráfico de Atividade
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlekiBr&theme=tokyonight&hide_border=true" alt="Gráfico de Atividade" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlekiBr&theme=react-dark&hide_border=true" alt="Gráfico de Atividade" />
 </div>
 
 ---
