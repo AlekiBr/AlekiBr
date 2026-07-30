@@ -4,7 +4,7 @@
 
   <br/><br/>
 
-  <h1>🚀 Olá, eu sou o Cristhian (AlekiBr)! <img src="https://raw.githubusercontent.com/MartinMuzatko/gif-stickers/master/wave.gif" width="30px"></h1>
+  <h1>Olá, eu sou o Cristhian (AlekiBr)! <img src="https://raw.githubusercontent.com/MartinMuzatko/gif-stickers/master/wave.gif" width="30px"></h1>
 
   <!-- Efeito Typing Animado -->
   <a href="https://github.com/AlekiBr">
@@ -24,7 +24,7 @@
 
 ---
 
-### 👨‍💻 Sobre Mim <img src="https://raw.githubusercontent.com/MartinMuzatko/gif-stickers/master/coder.gif" width="30px">
+### Sobre Mim <img src="https://raw.githubusercontent.com/MartinMuzatko/gif-stickers/master/coder.gif" width="30px">
 
 Sou apaixonado por tecnologia, ciência de dados e arquitetura de software. Minha trajetória une **Big Data, Engenharia de Software e soluções multidisciplinares**.
 
