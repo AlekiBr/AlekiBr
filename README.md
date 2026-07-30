@@ -13,6 +13,18 @@
 
   <br/><br/>
 
+  <!-- Barra de Navegação Rápida -->
+  <p>
+    <a href="#-sobre-mim">Sobre Mim</a> •
+    <a href="#-no-que-estou-trabalhando-agora">Foco Atual</a> •
+    <a href="#-projetos-em-destaque-">Projetos</a> •
+    <a href="#%EF%B8%8F-tecnologias-e-ferramentas-">Tecnologias</a> •
+    <a href="#-estat%C3%ADsticas-do-github-">Estatísticas</a> •
+    <a href="#-ouvindo-no-spotify">Spotify</a>
+  </p>
+
+  <br/>
+
   <!-- Grupo Unificado de Badges no Topo -->
   <a href="https://www.linkedin.com/in/cristhian-gabriel-981b98233" target="_blank">
     <img src="https://img.shields.io/badge/Status-Aberto_a_Conexoes-9d4edd?style=for-the-badge&logo=rocket&logoColor=white" alt="Status Conexões"/>
@@ -44,10 +56,17 @@ Sou apaixonado por tecnologia, ciência de dados e arquitetura de software. Minh
 
 ---
 
+### 🔨 No que estou trabalhando agora?
+
+- 🚀 Aprofundando conceitos de **Arquitetura de Software** na pós-graduação da **USP**.
+- 📊 Construindo novas análises de dados e automações avançadas com **Python**.
+- 🌐 Aprimorando projetos Fullstack e explorando novas tecnologias do ecossistema web.
+
+---
+
 ### 📈 Gráfico de Atividade
 
 <div align="center">
-  <!-- Tema ajustado para combinar com o tom roxo/neon Tokyonight -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlekiBr&bg_color=1a1b26&color=9d4edd&line=9d4edd&point=ffffff&area=true&area_color=9d4edd&hide_border=true" alt="Gráfico de Atividade" />
 </div>
 
@@ -59,6 +78,8 @@ Sou apaixonado por tecnologia, ciência de dados e arquitetura de software. Minh
   <tr>
     <td width="33%" align="center">
       <h3>🌱 Eco Farm Game</h3>
+      <!-- Submeta a URL da imagem/preview no src abaixo quando quiser -->
+      <!-- <img src="URL_DA_IMAGEM" width="100%" alt="Eco Farm Game Preview"/> -->
       <br/>
       <p>
         <a href="https://github.com/ECO-FARM-GAME" target="_blank">
@@ -70,6 +91,8 @@ Sou apaixonado por tecnologia, ciência de dados e arquitetura de software. Minh
     </td>
     <td width="33%" align="center">
       <h3>🌤️ Climas & Resultados</h3>
+      <!-- Submeta a URL da imagem/preview no src abaixo quando quiser -->
+      <!-- <img src="URL_DA_IMAGEM" width="100%" alt="Climas & Resultados Preview"/> -->
       <br/>
       <p>
         <a href="https://github.com/AlekiBr/Climas-Resultados" target="_blank">
@@ -81,6 +104,8 @@ Sou apaixonado por tecnologia, ciência de dados e arquitetura de software. Minh
     </td>
     <td width="33%" align="center">
       <h3>📈 InvestSim</h3>
+      <!-- Submeta a URL da imagem/preview no src abaixo quando quiser -->
+      <!-- <img src="URL_DA_IMAGEM" width="100%" alt="InvestSim Preview"/> -->
       <br/>
       <p>
         <a href="https://github.com/AlekiBr/InvestSim" target="_blank">
