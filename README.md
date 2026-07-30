@@ -47,8 +47,11 @@ Sou apaixonado por tecnologia, criatividade e por construir soluções inovadora
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlekiBr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlekiBr&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
+  <!-- Card de Estatísticas Gerais -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlekiBr&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
+  
+  <!-- Card de Linguagens Mais Usadas -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlekiBr&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Linguagens mais usadas" />
 </div>
 
 <br/>
