@@ -38,29 +38,37 @@ Sou apaixonado por tecnologia, ciência de dados e arquitetura de software. Minh
 
 ### 📌 Projetos em Destaque
 
-> *Substitua os links e nomes abaixo pelos seus repositórios reais mais relevantes!*
-
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">📊 Projeto de Big Data / Python</h3>
-      <p align="center">
-        <a href="https://github.com/AlekiBr">
+    <td width="33%" align="center">
+      <h3>🌱 Eco Farm Game</h3>
+      <p>
+        <a href="https://github.com/ECO-FARM-GAME" target="_blank">
           <img src="https://img.shields.io/badge/Ver_Reposit%C3%B3rio-181717?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
-      <p>Análise de dados aplicada com Python, extraindo insights estruturados e visualizações estratégicas.</p>
-      <p><b>Techs:</b> Python, Pandas, Matplotlib, SQL</p>
+      <p>Jogo com foco sustentável e educativo voltado ao Agronegócio, integrando lógica de programação e Game Development.</p>
+      <p><b>Techs:</b> Game Dev, Lógica de Programação, Python/JavaScript</p>
     </td>
-    <td width="50%">
-      <h3 align="center">🌐 Projeto Web Fullstack</h3>
-      <p align="center">
-        <a href="https://github.com/AlekiBr">
+    <td width="33%" align="center">
+      <h3>🌤️ Climas & Resultados</h3>
+      <p>
+        <a href="https://github.com/AlekiBr/Climas-Resultados" target="_blank">
           <img src="https://img.shields.io/badge/Ver_Reposit%C3%B3rio-181717?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
-      <p>Aplicação Web interativa desenvolvida focando em boa experiência de usuário e código limpo.</p>
-      <p><b>Techs:</b> JavaScript, HTML5, CSS3, APIs Rest</p>
+      <p>Projeto de análise de dados agroclimáticos focando no impacto do clima para a produtividade e tomada de decisões.</p>
+      <p><b>Techs:</b> Python, Análise de Dados, Big Data</p>
+    </td>
+    <td width="33%" align="center">
+      <h3>📈 InvestSim</h3>
+      <p>
+        <a href="https://github.com/AlekiBr/InvestSim" target="_blank">
+          <img src="https://img.shields.io/badge/Ver_Reposit%C3%B3rio-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p>Simulador financeiro e de investimentos web fullstack interativo para projeção de cenários econômicos.</p>
+      <p><b>Techs:</b> Web Fullstack, JavaScript, HTML5/CSS3</p>
     </td>
   </tr>
 </table>
