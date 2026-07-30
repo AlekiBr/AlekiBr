@@ -6,10 +6,17 @@
 
   <h1>🚀 Olá, eu sou o Cristhian (AlekiBr)! <img src="https://raw.githubusercontent.com/MartinMuzatko/gif-stickers/master/wave.gif" width="30px"></h1>
 
-  <!-- Efeito Typing Animado -->
+ <!-- Efeito Typing Animado -->
   <a href="https://github.com/AlekiBr">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=9D4EDD&center=true&vcenter=true&width=600&lines=Tecnologo+em+Big+Data+%7C+Fatec;Pos-Graduando+em+Eng.+de+Software+%7C+USP;Desenvolvedor+Python+%26+Fullstack;Game+Dev%2C+Design+%26+Inovacao" alt="Typing SVG" />
   </a>
+
+  <br/><br/>
+
+  <!-- Badge de Status/Disponibilidade -->
+  <a href="https://www.linkedin.com/in/cristhian-gabriel-981b98233" target="_blank">
+  <img src="https://img.shields.io/badge/Status-Aberto_a_Conexões_%26_Parcerias-9d4edd?style=for-the-badge&logo=rocket&logoColor=white" alt="Status Conexões"/>
+</a>
 
   <br/><br/>
 
