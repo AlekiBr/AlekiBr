@@ -4,11 +4,11 @@
 
   <br/><br/>
 
-  <h1>👋 Olá, eu sou o Cristhian (AlekiBr)!</h1>
+  <h1>🚀 Olá, eu sou o Cristhian (AlekiBr)! <img src="https://raw.githubusercontent.com/MartinMuzatko/gif-stickers/master/wave.gif" width="30px"></h1>
 
   <!-- Efeito Typing Animado -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=9D4EDD&center=true&vcenter=true&width=600&lines=Tecn%C3%B3logo+em+Big+Data+%7C+Fatec;P%C3%B3s-Graduando+em+Eng.+de+Software+%7C+USP;Desenvolvedor+Python+%26+Web;Apaixonado+por+Dados%2C+Games+%26+Inova%C3%A7%C3%A3o" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=9D4EDD&center=true&vcenter=true&width=600&lines=🎓+Tecn%C3%B3logo+em+Big+Data+%7C+Fatec;🏫+P%C3%B3s-Graduando+em+Eng.+de+Software+%7C+USP;💻+Desenvolvedor+Python+%26+Fullstack;🎮+Game+Dev%2C+Design+%26+Inova%C3%A7%C3%A3o" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -24,19 +24,19 @@
 
 ---
 
-### 👨‍💻 Sobre Mim
+### 👨‍💻 Sobre Mim <img src="https://raw.githubusercontent.com/MartinMuzatko/gif-stickers/master/coder.gif" width="30px">
 
 Sou apaixonado por tecnologia, ciência de dados e arquitetura de software. Minha trajetória une **Big Data, Engenharia de Software e soluções multidisciplinares**.
 
 * 🎓 **Formação:** Graduado em **Big Data no Agronegócio** pela **Fatec Shunji Nishimura**.
-* 🚀 **Especialização:** Pós-Graduando em **Engenharia de Software** pela **Universidade de São Paulo (USP)**.
+* 🏫 **Especialização:** Pós-Graduando em **Engenharia de Software** pela **Universidade de São Paulo (USP)**.
 * 💻 **Foco Atual:** Python, Engenharia de Dados, Desenvolvimento Web Completo e Arquitetura de Software.
 * 🎨 **Outras Habilidades:** Game Development, Edição de Vídeo, Design Gráfico, Marketing Digital e Empreendedorismo.
 * 💡 **Objetivo:** Construir sistemas escaláveis, inteligentes e transformar dados brutos em decisões estratégicas.
 
 ---
 
-### 📌 Projetos em Destaque
+### 📌 Projetos em Destaque <img src="https://raw.githubusercontent.com/MartinMuzatko/gif-stickers/master/star.gif" width="25px">
 
 <table>
   <tr>
@@ -47,8 +47,8 @@ Sou apaixonado por tecnologia, ciência de dados e arquitetura de software. Minh
           <img src="https://img.shields.io/badge/Ver_Reposit%C3%B3rio-181717?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
-      <p>Jogo com foco sustentável e educativo voltado ao Agronegócio, integrando lógica de programação e Game Development.</p>
-      <p><b>Techs:</b> Game Dev, Lógica de Programação, Python/JavaScript</p>
+      <p>Jogo interativo com foco sustentável e educativo voltado ao Agronegócio, integrando lógica de programação e Game Dev.</p>
+      <p><b>Techs:</b> Game Dev, Lógica de Programação, Python/JS</p>
     </td>
     <td width="33%" align="center">
       <h3>🌤️ Climas & Resultados</h3>
@@ -57,7 +57,7 @@ Sou apaixonado por tecnologia, ciência de dados e arquitetura de software. Minh
           <img src="https://img.shields.io/badge/Ver_Reposit%C3%B3rio-181717?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
-      <p>Projeto de análise de dados agroclimáticos focando no impacto do clima para a produtividade e tomada de decisões.</p>
+      <p>Análise de dados agroclimáticos avaliando o impacto do clima na produtividade e tomada de decisões estratégicas.</p>
       <p><b>Techs:</b> Python, Análise de Dados, Big Data</p>
     </td>
     <td width="33%" align="center">
@@ -67,7 +67,7 @@ Sou apaixonado por tecnologia, ciência de dados e arquitetura de software. Minh
           <img src="https://img.shields.io/badge/Ver_Reposit%C3%B3rio-181717?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
-      <p>Simulador financeiro e de investimentos web fullstack interativo para projeção de cenários econômicos.</p>
+      <p>Simulador financeiro e de investimentos web fullstack interativo para projeção e análise de cenários econômicos.</p>
       <p><b>Techs:</b> Web Fullstack, JavaScript, HTML5/CSS3</p>
     </td>
   </tr>
@@ -75,7 +75,7 @@ Sou apaixonado por tecnologia, ciência de dados e arquitetura de software. Minh
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Tecnologias e Ferramentas <img src="https://raw.githubusercontent.com/MartinMuzatko/gif-stickers/master/tools.gif" width="25px">
 
 #### **Linguagens & Web**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -96,7 +96,7 @@ Sou apaixonado por tecnologia, ciência de dados e arquitetura de software. Minh
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Estatísticas do GitHub <img src="https://raw.githubusercontent.com/MartinMuzatko/gif-stickers/master/chart.gif" width="25px">
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AlekiBr&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
