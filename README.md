@@ -13,11 +13,11 @@
 
   <br/><br/>
 
-  <!-- Badge de Status/Disponibilidade -->
+  <!-- Badge de Status/Disponibilidade Corrigida -->
   <a href="https://www.linkedin.com/in/cristhian-gabriel-981b98233" target="_blank">
-  <img src="https://img.shields.io/badge/Status-Aberto_a_Conexões_%26_Parcerias-9d4edd?style=for-the-badge&logo=rocket&logoColor=white" alt="Status Conexões"/>
-</a>
-
+    <img src="https://img.shields.io/badge/Status-Aberto_a_Conexoes_%26_Parcerias-9d4edd?style=for-the-badge&logo=rocket&logoColor=white" alt="Status Conexões"/>
+  </a>
+  
   <br/><br/>
 
  <!-- Badges de Métricas e Redes Corrigidas -->
