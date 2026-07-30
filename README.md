@@ -4,7 +4,7 @@
 
   <br/><br/>
 
-  <h1>Olá, eu sou o Cristhian (AlekiBr)! <img src="https://raw.githubusercontent.com/MartinMuzatko/gif-stickers/master/wave.gif" width="30px"></h1>
+  <h1>🚀 Olá, eu sou o Cristhian (AlekiBr)! <img src="https://raw.githubusercontent.com/MartinMuzatko/gif-stickers/master/wave.gif" width="30px"></h1>
 
   <!-- Efeito Typing Animado -->
   <a href="https://github.com/AlekiBr">
@@ -24,7 +24,7 @@
 
 ---
 
-### Sobre Mim <img src="https://raw.githubusercontent.com/MartinMuzatko/gif-stickers/master/coder.gif" width="30px">
+### 👨‍💻 Sobre Mim <img src="https://raw.githubusercontent.com/MartinMuzatko/gif-stickers/master/coder.gif" width="30px">
 
 Sou apaixonado por tecnologia, ciência de dados e arquitetura de software. Minha trajetória une **Big Data, Engenharia de Software e soluções multidisciplinares**.
 
@@ -36,12 +36,24 @@ Sou apaixonado por tecnologia, ciência de dados e arquitetura de software. Minh
 
 ---
 
+### 🏆 Conquistas do GitHub
+
+<div align="center">
+  <!-- Troféus Dinâmicos do Perfil -->
+  <img src="https://github-profile-trophy.vercel.app/?username=AlekiBr&theme=tokyonight&no-frame=true&no-background=true&margin-w=15" alt="Troféus do GitHub" />
+</div>
+
+---
+
 ### 📌 Projetos em Destaque <img src="https://raw.githubusercontent.com/MartinMuzatko/gif-stickers/master/star.gif" width="25px">
 
 <table>
   <tr>
     <td width="33%" align="center">
       <h3>🌱 Eco Farm Game</h3>
+      <!-- Opcional: Adicione imagem ou preview do projeto abaixo -->
+      <!-- <img src="URL_DA_IMAGEM" width="100%" /> -->
+      <br/>
       <p>
         <a href="https://github.com/ECO-FARM-GAME" target="_blank">
           <img src="https://img.shields.io/badge/Ver_Reposit%C3%B3rio-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -52,6 +64,9 @@ Sou apaixonado por tecnologia, ciência de dados e arquitetura de software. Minh
     </td>
     <td width="33%" align="center">
       <h3>🌤️ Climas & Resultados</h3>
+      <!-- Opcional: Adicione imagem ou preview do projeto abaixo -->
+      <!-- <img src="URL_DA_IMAGEM" width="100%" /> -->
+      <br/>
       <p>
         <a href="https://github.com/AlekiBr/Climas-Resultados" target="_blank">
           <img src="https://img.shields.io/badge/Ver_Reposit%C3%B3rio-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -62,6 +77,9 @@ Sou apaixonado por tecnologia, ciência de dados e arquitetura de software. Minh
     </td>
     <td width="33%" align="center">
       <h3>📈 InvestSim</h3>
+      <!-- Opcional: Adicione imagem ou preview do projeto abaixo -->
+      <!-- <img src="URL_DA_IMAGEM" width="100%" /> -->
+      <br/>
       <p>
         <a href="https://github.com/AlekiBr/InvestSim" target="_blank">
           <img src="https://img.shields.io/badge/Ver_Reposit%C3%B3rio-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -77,13 +95,13 @@ Sou apaixonado por tecnologia, ciência de dados e arquitetura de software. Minh
 
 ### 🛠️ Tecnologias e Ferramentas <img src="https://raw.githubusercontent.com/MartinMuzatko/gif-stickers/master/tools.gif" width="25px">
 
-#### **Linguagens & Web**
+#### **Linguagens & Frontend**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-#### **Ferramentas & Ambientes**
+#### **Ferramentas, Ambientes & OS**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -108,6 +126,15 @@ Sou apaixonado por tecnologia, ciência de dados e arquitetura de software. Minh
 <div align="center">
   <!-- Snake Animation -->
   <img src="https://raw.githubusercontent.com/AlekiBr/AlekiBr/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+### 💬 Frase Dev do Dia
+
+<div align="center">
+  <!-- Card de Citação Motivacional do GitHub -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Frase Dev Diária" />
 </div>
 
 ---
