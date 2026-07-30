@@ -36,11 +36,10 @@ Sou apaixonado por tecnologia, ciência de dados e arquitetura de software. Minh
 
 ---
 
-### 🏆 Conquistas do GitHub
+### 🔥 Sequência de Atividade
 
 <div align="center">
-  <!-- Troféus Dinâmicos do Perfil -->
-  <img src="https://github-profile-trophy.vercel.app/?username=AlekiBr&theme=tokyonight&no-frame=true&no-background=true&margin-w=15" alt="Troféus do GitHub" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlekiBr&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
 ---
