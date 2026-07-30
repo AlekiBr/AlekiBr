@@ -13,12 +13,15 @@
 
   <br/><br/>
 
-  <!-- Badges de Redes Sociais -->
+  <!-- Badges de Métricas e Redes -->
+  <a href="https://github.com/AlekiBr?tab=followers">
+    <img src="https://img.shields.io/github/followers/AlekiBr?style=for-the-badge&logo=github&color=2a7aef&labelColor=1a1b26" alt="Followers"/>
+  </a>
+  <a href="https://github.com/AlekiBr?tab=repositories">
+    <img src="https://img.shields.io/github/repositories/count/AlekiBr?style=for-the-badge&logo=github&color=9d4edd&labelColor=1a1b26" alt="Repositories"/>
+  </a>
   <a href="https://www.linkedin.com/in/cristhian-gabriel-981b98233" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/AlekiBr">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
 
