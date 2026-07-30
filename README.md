@@ -144,7 +144,7 @@ Sou apaixonado por tecnologia, ciência de dados e arquitetura de software. Minh
 
 <div align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31qdibjjrybqjfubnaijjrjb7z5i" target="_blank">
-    <img src="https://novatorem-spotify-readme.vercel.app/api/spotify" alt="Spotify Currently Playing" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31qdibjjrybqjfubnaijjrjb7z5i&cover_image=true&theme=novatorem&show_offline=true&background_color=1a1b26&interchange=false&bar_color=9d4edd&bar_color_cover=true" alt="Spotify Currently Playing" />
   </a>
 </div>
 
