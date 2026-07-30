@@ -140,6 +140,16 @@ Sou apaixonado por tecnologia, ciência de dados e arquitetura de software. Minh
 
 ---
 
+### 🎵 Ouvindo no Spotify
+
+<div align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31qdibjjrybqjfubnaijjrjb7z5i">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31qdibjjrybqjfubnaijjrjb7z5i&cover_image=true&theme=tokyonight&show_offline=true&background_color=1a1b26&bar_color=9d4edd&bar_color_cover=true" alt="Spotify Currently Playing" />
+  </a>
+</div>
+
+---
+
 ### 💬 Frase Dev do Dia
 
 <div align="center">
