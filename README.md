@@ -34,6 +34,11 @@ Sou apaixonado por tecnologia, ciência de dados e arquitetura de software. Minh
 * 🎨 **Outras Habilidades:** Game Development, Edição de Vídeo, Design Gráfico, Marketing Digital e Empreendedorismo.
 * 💡 **Objetivo:** Construir sistemas escaláveis, inteligentes e transformar dados brutos em decisões estratégicas.
 
+#### ⚡ Fatos Rápidos
+- ☕ Movido a café e resolução de problemas complexos.
+- 🌾 Experiência prática aplicando tecnologia e inteligência ao ecossistema do **Agronegócio**.
+- 🎮 Nas horas vagas, explorando o universo de **Game Design** e mídia digital.
+
 ---
 
 ### 📈 Gráfico de Atividade
@@ -50,8 +55,6 @@ Sou apaixonado por tecnologia, ciência de dados e arquitetura de software. Minh
   <tr>
     <td width="33%" align="center">
       <h3>🌱 Eco Farm Game</h3>
-      <!-- Opcional: Adicione imagem ou preview do projeto abaixo -->
-      <!-- <img src="URL_DA_IMAGEM" width="100%" /> -->
       <br/>
       <p>
         <a href="https://github.com/ECO-FARM-GAME" target="_blank">
@@ -63,8 +66,6 @@ Sou apaixonado por tecnologia, ciência de dados e arquitetura de software. Minh
     </td>
     <td width="33%" align="center">
       <h3>🌤️ Climas & Resultados</h3>
-      <!-- Opcional: Adicione imagem ou preview do projeto abaixo -->
-      <!-- <img src="URL_DA_IMAGEM" width="100%" /> -->
       <br/>
       <p>
         <a href="https://github.com/AlekiBr/Climas-Resultados" target="_blank">
@@ -76,8 +77,6 @@ Sou apaixonado por tecnologia, ciência de dados e arquitetura de software. Minh
     </td>
     <td width="33%" align="center">
       <h3>📈 InvestSim</h3>
-      <!-- Opcional: Adicione imagem ou preview do projeto abaixo -->
-      <!-- <img src="URL_DA_IMAGEM" width="100%" /> -->
       <br/>
       <p>
         <a href="https://github.com/AlekiBr/InvestSim" target="_blank">
@@ -99,6 +98,11 @@ Sou apaixonado por tecnologia, ciência de dados e arquitetura de software. Minh
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+#### **Banco de Dados & Big Data**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 #### **Ferramentas, Ambientes & OS**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -123,6 +127,13 @@ Sou apaixonado por tecnologia, ciência de dados e arquitetura de software. Minh
 <br/>
 
 <div align="center">
+  <!-- Sequência de Commits (Streak Stats) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlekiBr&theme=tokyonight&hide_border=true" alt="Sequência de Commits" />
+</div>
+
+<br/>
+
+<div align="center">
   <!-- Snake Animation -->
   <img src="https://raw.githubusercontent.com/AlekiBr/AlekiBr/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
@@ -139,6 +150,13 @@ Sou apaixonado por tecnologia, ciência de dados e arquitetura de software. Minh
 ---
 
 <div align="center">
+  <h3>🤝 Vamos conversar ou colaborar em um projeto?</h3>
+  <a href="https://www.linkedin.com/in/cristhian-gabriel-981b98233" target="_blank">
+    <img src="https://img.shields.io/badge/Mandar_Mensagem_no_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Contato LinkedIn"/>
+  </a>
+
+  <br/><br/>
+
   <img src="https://github.com/AlekiBr/AlekiBr/blob/main/certinho.gif" width="280px" alt="Certinho GIF"/>
   
   <br/><br/>
