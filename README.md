@@ -6,30 +6,24 @@
 
   <h1>🚀 Olá, eu sou o Cristhian (AlekiBr)! <img src="https://raw.githubusercontent.com/MartinMuzatko/gif-stickers/master/wave.gif" width="30px"></h1>
 
- <!-- Efeito Typing Animado -->
+  <!-- Efeito Typing Animado -->
   <a href="https://github.com/AlekiBr">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=9D4EDD&center=true&vcenter=true&width=600&lines=Tecnologo+em+Big+Data+%7C+Fatec;Pos-Graduando+em+Eng.+de+Software+%7C+USP;Desenvolvedor+Python+%26+Fullstack;Game+Dev%2C+Design+%26+Inovacao" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
-  <!-- Badge de Status/Disponibilidade Corrigida -->
+  <!-- Grupo Unificado de Badges no Topo -->
   <a href="https://www.linkedin.com/in/cristhian-gabriel-981b98233" target="_blank">
-    <img src="https://img.shields.io/badge/Status-Aberto_a_Conexoes_%26_Parcerias-9d4edd?style=for-the-badge&logo=rocket&logoColor=white" alt="Status Conexões"/>
+    <img src="https://img.shields.io/badge/Status-Aberto_a_Conexoes-9d4edd?style=for-the-badge&logo=rocket&logoColor=white" alt="Status Conexões"/>
   </a>
-  
-  <br/><br/>
-
- <!-- Badges de Métricas e Redes Corrigidas -->
   <a href="https://github.com/AlekiBr?tab=followers" target="_blank">
     <img src="https://img.shields.io/github/followers/AlekiBr?style=for-the-badge&logo=github&color=2a7aef&labelColor=1a1b26" alt="Followers"/>
-  </a>
-  <a href="https://github.com/AlekiBr" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/cristhian-gabriel-981b98233" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+</div>
 
 ---
 
@@ -53,7 +47,8 @@ Sou apaixonado por tecnologia, ciência de dados e arquitetura de software. Minh
 ### 📈 Gráfico de Atividade
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlekiBr&theme=react-dark&hide_border=true" alt="Gráfico de Atividade" />
+  <!-- Tema ajustado para combinar com o tom roxo/neon Tokyonight -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlekiBr&bg_color=1a1b26&color=9d4edd&line=9d4edd&point=ffffff&area=true&area_color=9d4edd&hide_border=true" alt="Gráfico de Atividade" />
 </div>
 
 ---
@@ -108,10 +103,11 @@ Sou apaixonado por tecnologia, ciência de dados e arquitetura de software. Minh
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-#### **Banco de Dados & Big Data**
+#### **Ciência de Dados & Banco de Dados**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 #### **Ferramentas, Ambientes & OS**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
