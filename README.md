@@ -5,10 +5,10 @@
   <br/><br/>
 
   <h1>👋 Olá, eu sou o Cristhian (AlekiBr)!</h1>
-  <p><b>Estudante de Big Data | Desenvolvedor Web & Python | Game Dev</b></p>
+  <p><b>Cientista de Dados & Tecnólogo em Big Data | Pós-Graduando em Engenharia de Software na USP</b></p>
 
   <!-- Badges de Redes Sociais -->
-  <a href="https://www.linkedin.com/in/cristhian-gabriel-981b98233">
+  <a href="https://www.linkedin.com/in/cristhian-gabriel-981b98233" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/AlekiBr">
@@ -20,18 +20,19 @@
 
 ### 👨‍💻 Sobre Mim
 
-Sou apaixonado por tecnologia, criatividade e por construir soluções inovadoras. Minha trajetória une **análise de dados, desenvolvimento de software e criação de conteúdo visual**.
+Sou apaixonado por tecnologia, ciência de dados e arquitetura de software. Minha trajetória une **Big Data, Engenharia de Software e soluções multidisciplinares**.
 
-* 🎓 **Formação:** Cursando **Big Data no Agronegócio** na **Fatec Shunji Nishimura** (Marília - SP).
-* 🎯 **Foco Atual:** Engenharia de Software, Desenvolvimento Web Completo e Python.
+* 🎓 **Formação:** Graduado em **Big Data no Agronegócio** pela **Fatec Shunji Nishimura**.
+* 🚀 **Especialização:** Pós-Graduando em **Engenharia de Software** pela **Universidade de São Paulo (USP)**.
+* 💻 **Foco Atual:** Python, Engenharia de Dados, Desenvolvimento Web Completo e Arquitetura de Software.
 * 🎨 **Outras Habilidades:** Game Development, Edição de Vídeo, Design Gráfico, Marketing Digital e Empreendedorismo.
-* 💡 **Objetivo:** Transformar dados e ideias em projetos funcionais e de alto impacto.
+* 💡 **Objetivo:** Construir sistemas escaláveis, inteligentes e transformar dados brutos em decisões estratégicas.
 
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
 
-#### **Linguagens & Web**
+#### **Linguagens & Dados**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -50,6 +51,7 @@ Sou apaixonado por tecnologia, criatividade e por construir soluções inovadora
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AlekiBr&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AlekiBr&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
 </div>
+
 <br/>
 
 <div align="center">
