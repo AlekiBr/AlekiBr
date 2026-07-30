@@ -6,9 +6,9 @@
 
   <h1>🚀 Olá, eu sou o Cristhian (AlekiBr)! <img src="https://raw.githubusercontent.com/MartinMuzatko/gif-stickers/master/wave.gif" width="30px"></h1>
 
-  <!-- Efeito Typing Animado -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=9D4EDD&center=true&vcenter=true&width=600&lines=🎓+Tecn%C3%B3logo+em+Big+Data+%7C+Fatec;🏫+P%C3%B3s-Graduando+em+Eng.+de+Software+%7C+USP;💻+Desenvolvedor+Python+%26+Fullstack;🎮+Game+Dev%2C+Design+%26+Inova%C3%A7%C3%A3o" alt="Typing SVG" />
+<!-- Efeito Typing Animado (Sem caracteres especiais na URL para evitar erro) -->
+  <a href="https://github.com/AlekiBr">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=9D4EDD&center=true&vcenter=true&width=600&lines=Tecnologo+em+Big+Data+%7C+Fatec;Pos-Graduando+em+Eng.+de+Software+%7C+USP;Desenvolvedor+Python+%26+Fullstack;Game+Dev%2C+Design+%26+Inovacao" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -117,6 +117,5 @@ Sou apaixonado por tecnologia, ciência de dados e arquitetura de software. Minh
   
   <br/><br/>
 
-  <!-- Contador de Visitas -->
-  <img src="https://profile-counter.glitch.me/AlekiBr/count.svg" alt="Visitor Count" />
-</div>
+<!-- Contador de Visitas Estável (Komarev) -->
+  <img src="https://komarev.com/ghpvc/?username=AlekiBr&color=9d4edd&style=for-the-badge&label=VISITANTES" alt="Contador de Visitas" />
