@@ -13,15 +13,8 @@
 
   <br/><br/>
 
-  <!-- Barra de Navegação Rápida -->
-  <p>
-    <a href="#-sobre-mim">Sobre Mim</a> •
-    <a href="#-no-que-estou-trabalhando-agora">Foco Atual</a> •
-    <a href="#-projetos-em-destaque-">Projetos</a> •
-    <a href="#%EF%B8%8F-tecnologias-e-ferramentas-">Tecnologias</a> •
-    <a href="#-estat%C3%ADsticas-do-github-">Estatísticas</a> •
-    <a href="#-ouvindo-no-spotify">Spotify</a>
-  </p>
+<img width="405" height="53" alt="image" src="https://github.com/user-attachments/assets/1d4d5e0c-7076-4569-bf40-931b2bfdbd5d" />
+
 
   <br/>
 
